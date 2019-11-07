@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mata Kristof mordecaivv@gmail.com
 
 # THANKS
 
